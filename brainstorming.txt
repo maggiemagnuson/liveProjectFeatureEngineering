@@ -1,0 +1,5 @@
+I can certainly see the value add from creating a feature store. I'll admit the concept was new to me but it does make sense as an easy way to quickly train and test different theories.
+
+The interesting thing will be how to incorporate this into the real world. Obviously, it's not feasible to store very large data set to .csv. That said, this does get the wheels turning on how these data sets could leverage HDFS/Hive.
+
+Additionally, it'll be a fun challenge how to store the metadata for these feature stores so they can be leveraged at an enterprise level. The documentation that was provided is quite helpful and gives some good insights into how large enterprises are dealing with this problem.
